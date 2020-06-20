@@ -1,0 +1,197 @@
+D:\MY.NET\Judging System\SourceCode\bin\Debug\Judging System.exe.config
+D:\MY.NET\Judging System\SourceCode\bin\Debug\Judging System.exe
+D:\MY.NET\Judging System\SourceCode\bin\Debug\Judging System.pdb
+D:\MY.NET\Judging System\SourceCode\bin\Debug\Judging System.xml
+D:\MY.NET\Judging System\SourceCode\bin\Debug\MySql.Data.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Data.DataSetExtensions.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Data.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Data.Linq.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Deployment.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Drawing.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Management.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Messaging.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Windows.Forms.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Xml.dll
+D:\MY.NET\Judging System\SourceCode\bin\Debug\System.Xml.Linq.dll
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\Interop.Shell32.dll
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.vbproj.ResolveComReference.cache
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmCategoryEntries.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmCategoryInformation.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmViewJudgesOnCategory.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmContestantInformation.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmContestant.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmCriteriaForJudging.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmEventInformation.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmEventEntries.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgePermission.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgeEntries.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgeInformation.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmRankTitle.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmRankEntries.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmRankInformation.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmFinalScore.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmTopRankingControl.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgesControl.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgingControl.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmManualScoringInfo.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmManualScoring.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmScoreMonitoring.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.rptCategoryResult.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemUploader_temp.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemUploader.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemDownloader_temporary.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemDownloader.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmChangePassword.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmNotificationBox.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmAdvanceSearch.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemUpdate.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmConnectionSetup.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmDataDownloader.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmGeneralSettings.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemInfo.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmUserlogoff.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.MainForm.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmLogin.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.Resources.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.vbproj.GenerateResource.Cache
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\Judging System.exe.licenses
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\Judging System.exe
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\Judging System.xml
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\Judging System.pdb
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.rptOverallResultPortrait.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.rptOverallResultLandscape.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmDeduction.resources
+D:\MY.NET\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmGroupBatch.resources
+D:\My.Net\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.vbprojResolveAssemblyReference.cache
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\Judging System.exe.config
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\Judging System.exe
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\Judging System.pdb
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\Judging System.xml
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Data.DataSetExtensions.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Data.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Data.Linq.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Management.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Messaging.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Interop.Shell32.dll
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.vbproj.ResolveComReference.cache
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmCategoryEntries.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmCategoryInformation.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmViewJudgesOnCategory.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmContestantInformation.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmContestant.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmGroupBatch.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmCriteriaForJudging.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmEventInformation.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmEventEntries.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgePermission.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgeEntries.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgeInformation.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmRankTitle.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmRankEntries.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmRankInformation.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmDeduction.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmFinalScore.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmTopRankingControl.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgesControl.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgingControl.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmManualScoringInfo.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmManualScoring.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmScoreMonitoring.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.rptOverallResultPortrait.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.rptOverallResultLandscape.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.rptCategoryResult.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemUploader_temp.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemUploader.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemDownloader_temporary.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemDownloader.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmChangePassword.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmNotificationBox.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmAdvanceSearch.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemUpdate.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmConnectionSetup.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmDataDownloader.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmGeneralSettings.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemInfo.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmUserlogoff.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.MainForm.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmLogin.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.Resources.resources
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Judging System.exe.licenses
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Judging System.exe
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Judging System.xml
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Judging System.pdb
+D:\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.vbprojResolveAssemblyReference.cache
+D:\My.Net\System Core\Judging System\SourceCode\bin\Debug\MySql.Data.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\Judging System.exe.config
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Interop.Shell32.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\Judging System.exe
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\Judging System.pdb
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\Judging System.xml
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Data.DataSetExtensions.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Data.Linq.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Management.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Messaging.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmCategoryEntries.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmCategoryInformation.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmViewJudgesOnCategory.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmContestantInformation.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmContestant.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmGroupBatch.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmCriteriaForJudging.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmEventInformation.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmEventEntries.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgePermission.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgeEntries.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgeInformation.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmRankTitle.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmRankEntries.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmRankInformation.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmDeduction.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmFinalScore.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmTopRankingControl.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgesControl.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmJudgingControl.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmManualScoringInfo.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmManualScoring.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmScoreMonitoring.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.rptOverallResultPortrait.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.rptOverallResultLandscape.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.rptCategoryResult.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemUploader_temp.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemUploader.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemDownloader_temporary.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemDownloader.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmChangePassword.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmNotificationBox.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmAdvanceSearch.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemUpdate.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmDataDownloader.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmGeneralSettings.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmSystemInfo.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmUserlogoff.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.MainForm.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.frmLogin.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.Resources.resources
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Judging System.exe.licenses
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Judging System.exe
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Judging System.xml
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\Judging System.pdb
+C:\My Files\My.Net\System Core\Judging System\SourceCode\obj\x86\Debug\JudgingSystem.vbprojResolveAssemblyReference.cache

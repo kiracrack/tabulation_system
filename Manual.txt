@@ -1,0 +1,22 @@
+0 - 'Lock'
+	judges cannot login. to unlock goto 'offline'
+1 - 'Standby'
+	goto lock page show caption "Please wait for a moment of the tabulator activation" next goto "ready"
+2 - 'Ready'
+	judge on scorepage but not yet submitted next goto "scoring"
+3 - 'Scoring'
+	change the status when the judges start submiting score next goto "Score review"
+4 - 'Score Review'
+	done on scorepage reviewing the "final score" next goto "Standby"
+5 - 'Online'
+	goto get started page goto lockpage
+6 - 'Offline'
+	not yet login
+
+
+How to use:
+1. After proceeding next page. your account is changing status as stanby mode while waiting the tabulator account activation.
+2. the Judges will inform by tabulator if thier account are already activated. and judges can may proceed to score page.
+3. in the score page. judge must submit each candidate score after fill in the score field. 
+4. after scoring, judges should confirm the all score in order to proceed "score summary page" by clicking "Confirm and Show score summary"
+5. on score summary page. the tabulator send generated copy from tabulation system of official result every category and to be review and sign by each judges confirming thier score are correct and coincide.

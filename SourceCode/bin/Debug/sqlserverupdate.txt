@@ -1,0 +1,29 @@
+DROP TABLE IF EXISTS `procurement`.`tblsysteminfo`;
+CREATE TABLE  `procurement`.`tblsysteminfo` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `details` text,
+  `version` varchar(45) NOT NULL,
+  `downloadurl` text NOT NULL,
+  `features` text NOT NULL,
+  `password` text NOT NULL,
+  `active` tinyint(1) NOT NULL DEFAULT '1',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1 ROW_FORMAT=DYNAMIC;
+
+DROP TABLE IF EXISTS `procurement`.`tblsystemupdate`;
+CREATE TABLE  `procurement`.`tblsystemupdate` (
+  `officeid` varchar(105) NOT NULL,
+  `version` varchar(45) NOT NULL,
+  `datecheck` datetime NOT NULL,
+  PRIMARY KEY (`officeid`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 ROW_FORMAT=DYNAMIC;
+
+DROP TABLE IF EXISTS `procurement`.`tblupdatedownload`;
+CREATE TABLE  `procurement`.`tblupdatedownload` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `office` varchar(105) NOT NULL,
+  `username` varchar(45) NOT NULL,
+  `version` varchar(45) NOT NULL,
+  `datetime` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=latin1 ROW_FORMAT=DYNAMIC;
